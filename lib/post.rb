@@ -1,4 +1,6 @@
 class Post
+	attr_reader :date
+	
 	def initialize(title, date, text)
 		@title = title 
 		@date = date
