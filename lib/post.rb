@@ -12,6 +12,6 @@ class Post
 		puts @date
 		puts ""
 		puts @text
-		puts "\n\n/*--------------------------*/\n\n"
+		puts "\n\n/*--------------------------*/\n\n\n"
 	end
 end
